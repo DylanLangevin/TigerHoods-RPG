@@ -40,7 +40,7 @@ Congratulations ! You passed the first phase. Now to get stronger, you have 7 da
 Tiger Hood shows up, you need to beat him, alone or with your team.
 
 Comment : 
-When we did the project, we hadn’t learn the “class property “in class, so we decided to make it harder by not using it.
+When we did the project, we hadn’t learn the class property in class, so we decided to make it harder by not using it.
 
 
-Our game is played on VsCode Terminal
+Our game is playable on VsCode Terminal ! 
