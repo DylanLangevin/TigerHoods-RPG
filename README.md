@@ -16,8 +16,7 @@ You will be assigned a class from the character list : Fox, Monkey, Brown bear, 
 (You are the red circle, the orange flash is a fight, the green pavilion is a NPC which you can trade items with, and the yellow star is an random item.
 
 
-
-
+![Capture d’écran 2022-02-23 192212](https://user-images.githubusercontent.com/77147936/155386175-93e4889d-939a-4a77-a0f2-4d9bff79c03d.png)
 
 
 
@@ -27,7 +26,13 @@ You will be assigned a class from the character list : Fox, Monkey, Brown bear, 
 -	The second phase is the marketplace phase :
 Congratulations ! You passed the first phase. Now to get stronger, you have 7 days(actions) can recruit allies, buy, sell or trade items with the trader. You can also take a nap to get quickly at the phase 3.
 
- 
+![Capture d’écran 2022-02-23 192212](https://user-images.githubusercontent.com/77147936/155386072-52ce1c3c-ae00-4338-9446-e5ca697bb07b.png)
+
+
+![Capture d’écran 2022-02-23 192441](https://user-images.githubusercontent.com/77147936/155386103-53af6684-f771-4f68-874f-e633432b12d8.png)
+
+![Capture d’écran 2022-02-23 192520](https://user-images.githubusercontent.com/77147936/155386112-39fc92b4-df1c-45a9-b9a0-d858db3a7ed3.png)
+
         
 -	The final phase is the Final Boss fight : 
 Tiger Hood shows up, you need to beat him, alone or with your team.
