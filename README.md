@@ -22,6 +22,7 @@ You will be assigned a class from the character list : Fox, Monkey, Brown bear, 
  
  
  ![Capture d’écran 2022-02-23 192212](https://user-images.githubusercontent.com/77147936/155386175-93e4889d-939a-4a77-a0f2-4d9bff79c03d.png)
+ 
 (You are the red circle, the orange flash is a fight, the green pavilion is a NPC which you can trade items with, and the yellow star is an random item).
 
 
