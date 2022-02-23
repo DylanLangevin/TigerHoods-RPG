@@ -30,11 +30,7 @@ You will be assigned a class from the character list : Fox, Monkey, Brown bear, 
 -	The second phase is the marketplace phase :
 Congratulations ! You passed the first phase. Now to get stronger, you have 7 days(actions) can recruit allies, buy, sell or trade items with the trader. You can also take a nap to get quickly at the phase 3.
 
-![Capture d’écran 2022-02-23 192419](https://user-images.githubusercontent.com/77147936/155386267-592d25ba-787e-4c01-bf46-9760cc281f01.png)
-
-![Capture d’écran 2022-02-23 192441](https://user-images.githubusercontent.com/77147936/155386103-53af6684-f771-4f68-874f-e633432b12d8.png)
-
-![Capture d’écran 2022-02-23 192520](https://user-images.githubusercontent.com/77147936/155386112-39fc92b4-df1c-45a9-b9a0-d858db3a7ed3.png)
+![Capture d’écran 2022-02-23 192419](https://user-images.githubusercontent.com/77147936/155386267-592d25ba-787e-4c01-bf46-9760cc281f01.png)![Capture d’écran 2022-02-23 192441](https://user-images.githubusercontent.com/77147936/155386103-53af6684-f771-4f68-874f-e633432b12d8.png)![Capture d’écran 2022-02-23 192520](https://user-images.githubusercontent.com/77147936/155386112-39fc92b4-df1c-45a9-b9a0-d858db3a7ed3.png)
 
         
 -	The final phase is the Final Boss fight : 
